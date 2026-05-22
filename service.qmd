@@ -1,0 +1,32 @@
+---
+title: "Service"
+description: "Academic service, awards, and volunteer activities"
+---
+
+## Awards
+
+- NVIDIA Academic Grant, 3K A100 GPU-hours on Saturn Cloud (2025)
+- Dean's List, 3 semesters, Michigan State University (2014-2015)
+
+## Journal Peer Reviewing
+
+- Journal of Building Engineering, Elsevier (2024-present)
+- Reliability Engineering & System Safety (2025-present)
+- Environmental Development (2025-present)
+- Applied Energy (2025-present)
+- IEEE Open Journal of the Industrial Electronics Society (2025-present)
+- Energy Conversion and Management: X (2025-present)
+
+## Volunteer Grant Coordination
+
+- GPSA Grant & Travel (2023-2024)
+
+## Research Volunteer Activities
+
+- Manufacturing Innovation Center (2022): human-machine interfaces, LabVIEW test systems, sensor integration, experimental instrumentation, and data acquisition.
+- Cooperative Robotic Systems Lab (2021-2022): artificial intelligence, autonomous robots, multi-robot systems, human-robot teaming, and robot learning.
+
+## Community Activities
+
+- Apprentice, Quantum Intelligence Association (2020)
+- Campus Field Advisor, Bridges International at Michigan State University (2015-2018)

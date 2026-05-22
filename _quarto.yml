@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+
+website:
+  title: "Hsiao-Ping Ni"
+  site-url: "https://ping830616.github.io"
+  description: "Postdoctoral researcher in semiconductor lifecycle intelligence, digital twins, and trustworthy AI."
+  repo-url: "https://github.com/ping830616/ping830616.github.io"
+  navbar:
+    background: "#ffffff"
+    foreground: "#1f2937"
+    pinned: true
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Academic"
+        menu:
+          - text: "Teaching"
+            href: teaching.qmd
+          - text: "Students"
+            href: students.qmd
+          - text: "Grants"
+            href: grants.qmd
+          - text: "Service"
+            href: service.qmd
+          - text: "Blog"
+            href: posts.qmd
+      - text: "CV"
+        href: cv.qmd
+      - icon: github
+        href: "https://github.com/ping830616"
+        aria-label: "GitHub"
+  page-footer:
+    border: true
+    left: "Copyright 2026, Hsiao-Ping Ni"
+    right:
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=0Wai3BMAAAAJ&hl=en&authuser=2"
+      - text: "GitHub"
+        href: "https://github.com/ping830616"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: true
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: true
+    code-copy: true
+    fig-align: center
+
+execute:
+  freeze: auto

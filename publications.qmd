@@ -1,0 +1,52 @@
+---
+title: "Publications"
+description: "Publication list for Hsiao-Ping Ni"
+---
+
+::: {.profile-links}
+[Google Scholar](https://scholar.google.com/citations?user=0Wai3BMAAAAJ&hl=en&authuser=2)
+[ResearchGate](https://www.researchgate.net/profile/Hsiao-Ping-Ni?ev=hdr_xprf)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=58994628600)
+:::
+
+::: {.note}
+Corresponding author is indicated by `*`.
+:::
+
+## Silicon Lifecycle Management
+
+::: {.pub-list}
+1. **Ni, H. P.**\*, & Chakrabarty, K. (2026). [Silicon Lifecycle Management: From Telemetry to Dependability](https://ieeexplore.ieee.org/abstract/document/11480834). *IEEE Design & Test*.
+
+2. Ortega, E.\*, **Ni, H. P.**, Hati, A., Talukdar, J., Paik, W., Su, F., Chattopadhyay, R., and Chakrabarty, K. (2026). X-OCTANE: eXplainable On-Chip Telemetry-based Anomaly Notification Engine for Silicon Lifecycle Management, to appear in *ACM Transactions on Design Automation of Electronic Systems*.
+
+3. **Ni, H. P.**\*, Ortega, E., and Chakrabarty, K. (2026). EXACT: Edge-eXplainable Autonomous Causal Telemetry for Silicon Lifecycle Management, to appear in *IEEE European Test Symposium (ETS)*.
+
+4. Ortega, E.\*, Talukdar, J., **Ni, H. P.**, and Chakrabarty, K. (2026). TRACK: Telemetry-based Representation Analysis via Centered Kernel Alignment for Silicon Lifecycle Management, to appear in *IEEE VLSI Test Symposium (VTS)*.
+
+5. **Ni, H. P.**\*, and Chakrabarty, K. (2026). DICE: A Digital Twin-Driven In-Field Continuous-Test Engine for Silicon Lifecycle Management. *IEEE International Test Conference (ITC)*. Under review.
+
+6. **Ni, H. P.**\*, and Chakrabarty, K. (2026). CITADEL: Causal In-Field Telemetry Analytics and Drift-Aware Edge Learning for Silicon Lifecycle Management. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*. Manuscript in preparation.
+:::
+
+## Data-Intensive Frameworks
+
+::: {.pub-list}
+1. Li, Y. L.\*, Liu, C. Y., Li, **Ni, H. P.**, Paul, F., Chong, W. O., & Chou, J. S. (2025). [Generative artificial intelligence-based framework for bridging lifecycle gaps in semiconductor HVAC systems](https://www.sciencedirect.com/science/article/pii/S2352710225005868). *Journal of Building Engineering*, 112349.
+
+2. **Ni, H. P.**\*, Chong, W. O., & Chou, J. S. (2024). [Optimizing HVAC systems for semiconductor fabrication: A data-intensive framework for energy efficiency and sustainability](https://www.sciencedirect.com/science/article/pii/S2352710224009653). *Journal of Building Engineering*, *89*, 109397.
+:::
+
+## Building Energy Systems
+
+::: {.pub-list}
+1. **Ni, H. P.**\*, Liu, C. Y., Li, Y. L., Chong, W. O., & Chou, J. S. (2025). [Enhancing HVAC energy efficiency modeling in semiconductor manufacturing facilities using tree-structured Parzen estimator-optimized deep learning](https://www.sciencedirect.com/science/article/pii/S036013232500071X). *Building and Environment*, *271*, 112589.
+
+2. **Ni, H. P.**\*, & Chong, W. O. (2024). [Semiconductor fab energy optimization and data-intensive energy efficiency modeling](https://juniperpublishers.com/etoaj/pdf/ETOAJ.MS.ID.555674.pdf). *Engineering Technology Open Access Journal*, *5*(5), 555674.
+:::
+
+## Energy Supply Chain
+
+::: {.pub-list}
+1. **Ni, H. P.**\*, Liu, C. Y., Paul, F., Chong, W. O., & Chou, J. S. (2025). [Enhancing supply chain resilience and efficiency of HVAC systems in semiconductor manufacturing facilities using graph-based large multimodal models](https://www.sciencedirect.com/science/article/pii/S030626192501150X). *Applied Energy*, *398*, 126420.
+:::

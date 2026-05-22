@@ -1,0 +1,10 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+Short research notes, project updates, and teaching reflections can live here.

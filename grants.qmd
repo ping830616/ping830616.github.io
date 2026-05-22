@@ -1,0 +1,18 @@
+---
+title: "Grants"
+description: "Grants, awards, and funding"
+---
+
+## Awards and Funding
+
+- NVIDIA Academic Grant, 3K A100 GPU-hours on Saturn Cloud (2025)
+
+## Future Funding Themes
+
+- AI-enabled Silicon Lifecycle Management
+- Runtime telemetry analytics for dependable systems
+- Digital twins for semiconductor reliability and resilience
+- Edge and on-chip explainable AI
+- Semiconductor facility intelligence and sustainable manufacturing systems
+
+This page is structured for future proposal summaries, funded projects, student support, and sponsor acknowledgments.

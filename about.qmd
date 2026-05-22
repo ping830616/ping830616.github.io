@@ -1,0 +1,74 @@
+---
+title: "About"
+description: "About Hsiao-Ping Ni"
+---
+
+I am a postdoctoral researcher at Arizona State University working at the intersection of semiconductor systems, artificial intelligence, digital twins, and hardware/software co-design. My research focuses on how deployed semiconductor systems can remain reliable, explainable, and resilient as workloads, software, environments, and devices change over time.
+
+My current work develops AI-enabled methods for Silicon Lifecycle Management (SLM), including runtime telemetry analytics, lightweight digital twins, explainable anomaly detection, causal diagnosis, uncertainty-aware decision support, and edge and on-chip deployment. A central goal is to move semiconductor monitoring beyond simple detect-and-notify workflows toward measure-explain-act lifecycle intelligence.
+
+::: {.profile-links}
+[Email](mailto:hsiaoping316@gmail.com)
+[Google Scholar](https://scholar.google.com/citations?user=0Wai3BMAAAAJ&hl=en&authuser=2)
+[ResearchGate](https://www.researchgate.net/profile/Hsiao-Ping-Ni?ev=hdr_xprf)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=58994628600)
+[LinkedIn](https://www.linkedin.com/in/hsiaopingni/)
+[GitHub](https://github.com/ping830616)
+:::
+
+## Biography
+
+In 2020, I moved to Arizona to begin my M.S. program in Robotics and Autonomous Systems, with a concentration in Systems Engineering, at Arizona State University's School of Manufacturing Systems and Networks. I earned my master's degree in 2022 and completed my Ph.D. in Systems Engineering in 2025 under Dr. Oswald Chong.
+
+My doctoral research focused on AI-driven system optimization for semiconductor manufacturing facilities. I studied mechanical, electrical, and plumbing systems in high-reliability fab environments, with applications in predictive modeling, energy efficiency, indoor air quality, and supply-chain resilience. This work helped me see semiconductor manufacturing as a complex engineered system that must remain efficient, reliable, and resilient under uncertainty.
+
+I am currently a Postdoctoral Researcher under Dr. Krishnendu Chakrabarty at ASU. My postdoctoral research focuses on AI-enabled lifecycle intelligence for semiconductor systems, especially Silicon Lifecycle Management, telemetry-driven digital twins, explainable anomaly detection, and hardware/software co-design.
+
+## Research Interests
+
+- Silicon Lifecycle Management and dependable computing: runtime telemetry, in-field monitoring, anomaly detection, diagnosis, and guarded response.
+- Hardware/software co-design for edge and on-chip AI: fixed-point anomaly scoring, feature-budgeted telemetry analytics, area/power-aware deployment, and near-device decision support.
+- Digital twins and telemetry-driven modeling: behavioral micro-twins, tiered observability, split-conformal calibration, and host-side monitoring under limited signal access.
+- Causal and explainable telemetry analytics: causal graph learning, feature ranking, signal-level attribution, and engineer-trustworthy diagnosis.
+- Semiconductor manufacturing facility intelligence: AI-driven HVAC/MEP optimization, energy efficiency, indoor air quality, reliability, supply-chain resilience, and circularity.
+- Methods: time-series modeling, graph neural networks, multimodal AI, uncertainty-aware forecasting, Optuna-TPE, explainable AI, lightweight RAG/LLM-assisted triage, and rigorous evaluation.
+
+## Education
+
+::: {.cv-section}
+::: {.year}
+2025
+:::
+::: {}
+**Ph.D. in Systems Engineering**, Arizona State University
+:::
+:::
+
+::: {.cv-section}
+::: {.year}
+2022
+:::
+::: {}
+**M.S. in Robotics and Autonomous Systems**, Systems Engineering concentration, Arizona State University
+:::
+:::
+
+::: {.cv-section}
+::: {.year}
+2017
+:::
+::: {}
+**B.S. in Mechanical Engineering**, Michigan State University
+:::
+:::
+
+## Experience
+
+- Postdoctoral Researcher, Arizona State University, USA (2025-present)
+- Research Graduate Associate, Arizona State University, USA (2022-2025)
+- Mechanical System Engineer Intern, United Integrated Services, USA (2022-2025)
+- Robotic Systems Design Engineer Intern, 2Unify, USA (2021)
+- R&D Engineer Intern, Easy Field Corporation, Taiwan (2020)
+- Development Engineer, SINBON Electronics, Taiwan (2019)
+- Military Infantry Service, Republic of China Army, Taiwan (2018)
+- Campus Field Advisor, Bridges International, USA (2017-2018)

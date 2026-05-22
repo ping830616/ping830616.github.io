@@ -1,0 +1,75 @@
+---
+title: "Hsiao-Ping Ni"
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-copy}
+::: {.eyebrow}
+Postdoctoral Researcher, Arizona State University
+:::
+
+# Hsiao-Ping Ni
+
+::: {.lead}
+Telemetry-driven lifecycle intelligence for dependable semiconductor systems, digital twins, explainable AI, and hardware/software co-design.
+:::
+
+I build methods that help deployed semiconductor systems measure departures from expected behavior, explain likely causes from runtime telemetry, and support safe responses under real deployment constraints.
+
+::: {.hero-actions}
+[Research](research.qmd){.btn .btn-primary}
+[Publications](publications.qmd){.btn .btn-outline-primary}
+[CV](cv.qmd){.btn .btn-outline-secondary}
+:::
+:::
+
+::: {.hero-visual}
+![](assets/img/profile.jpg){.hero-photo fig-alt="Portrait of Hsiao-Ping Ni"}
+
+::: {.hero-figure}
+![](assets/img/slm.png){fig-alt="Silicon lifecycle management research diagram"}
+:::
+:::
+:::
+
+::: {.content-block}
+## Research Themes
+
+::: {.feature-grid}
+::: {.feature}
+### Silicon Lifecycle Management
+
+Runtime telemetry, in-field monitoring, anomaly detection, diagnosis, and guarded response for deployed chips and computing systems.
+:::
+
+::: {.feature}
+### Operational Digital Twins
+
+Behavioral micro-twins, tiered observability, split-conformal calibration, and host-side monitoring under limited signal access.
+:::
+
+::: {.feature}
+### Explainable Edge Assurance
+
+Fixed-point anomaly scoring, feature-budgeted telemetry analytics, area/power-aware deployment, and near-device decision support.
+:::
+
+::: {.feature}
+### Networked System Resilience
+
+Causal graph learning, uncertainty-aware diagnosis, signal-level attribution, and engineer-trustworthy evidence for lifecycle decisions.
+:::
+:::
+
+## Current Direction
+
+My current work develops AI-enabled Silicon Lifecycle Management frameworks that connect:
+
+- **Measure**: quantify how far deployed systems depart from expected operating targets.
+- **Explain**: construct drift-robust evidence, causal attribution, and calibrated uncertainty from networked telemetry.
+- **Act**: support guardrailed recommendations, escalation, rollback, and lifecycle updates under deployment constraints.
+
+This direction connects digital twins, anomaly detection, explainable AI, causal telemetry learning, and hardware/software co-design into a practical framework for dependable semiconductor systems.
+:::

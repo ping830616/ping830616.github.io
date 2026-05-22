@@ -1,0 +1,22 @@
+---
+title: "Students"
+description: "Student mentoring and future lab group"
+---
+
+This page is prepared for a future research group. It can grow into a home for students, alumni, project openings, and onboarding material.
+
+## Mentoring Areas
+
+- Semiconductor lifecycle intelligence and dependable computing
+- Telemetry-driven digital twins
+- Explainable anomaly detection and causal diagnosis
+- Hardware/software co-design for edge AI
+- AI for semiconductor manufacturing facilities
+
+## Prospective Students
+
+Future student projects will emphasize reproducible engineering research: strong problem framing, careful baselines, honest uncertainty, and artifacts that other researchers can build on.
+
+## Lab Culture
+
+The long-term goal is to build a group that combines rigorous systems thinking with practical AI methods for real semiconductor and engineering infrastructure problems.

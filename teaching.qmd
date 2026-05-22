@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+description: "Teaching and mentoring"
+---
+
+My teaching page is structured for future instructor-of-record courses, guest lectures, workshops, and student resources.
+
+## Areas Prepared To Teach
+
+- Semiconductor systems, reliability, and lifecycle management
+- Systems engineering and complex engineered systems
+- AI for engineering systems
+- Digital twins and telemetry-driven modeling
+- Time-series modeling and uncertainty-aware evaluation
+- Robotics, sensing, and autonomous systems foundations
+
+## Mentoring Style
+
+I enjoy helping students connect theory to working systems: clean problem framing, careful evaluation, reproducible experiments, and engineering judgment about where a model can and cannot be trusted.
+
+Future versions of this page can include syllabi, lecture notes, project briefs, and student project showcases.
