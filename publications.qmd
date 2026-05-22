@@ -7,6 +7,7 @@ description: "Publication list for Hsiao-Ping Ni"
 [Google Scholar](https://scholar.google.com/citations?user=0Wai3BMAAAAJ&hl=en&authuser=2)
 [ResearchGate](https://www.researchgate.net/profile/Hsiao-Ping-Ni?ev=hdr_xprf)
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58994628600)
+[ORCID](https://orcid.org/0009-0004-2955-0871)
 :::
 
 ::: {.note}
@@ -42,7 +43,7 @@ Corresponding author is indicated by `*`.
 ::: {.pub-list}
 1. **Ni, H. P.**\*, Liu, C. Y., Li, Y. L., Chong, W. O., & Chou, J. S. (2025). [Enhancing HVAC energy efficiency modeling in semiconductor manufacturing facilities using tree-structured Parzen estimator-optimized deep learning](https://www.sciencedirect.com/science/article/pii/S036013232500071X). *Building and Environment*, *271*, 112589.
 
-2. **Ni, H. P.**\*, & Chong, W. O. (2024). [Semiconductor fab energy optimization and data-intensive energy efficiency modeling](https://juniperpublishers.com/etoaj/pdf/ETOAJ.MS.ID.555674.pdf). *Engineering Technology Open Access Journal*, *5*(5), 555674.
+2. **Ni, H. P.**\*, & Chong, W. O. (2025). [Semiconductor fab energy optimization and data-intensive energy efficiency modeling](https://juniperpublishers.com/etoaj/pdf/ETOAJ.MS.ID.555674.pdf). *Engineering Technology Open Access Journal*, *5*(5), 555674.
 :::
 
 ## Energy Supply Chain

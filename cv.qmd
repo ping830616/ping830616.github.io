@@ -4,15 +4,44 @@ description: "Academic CV summary"
 ---
 
 ::: {.note}
-This page is a web CV summary. A PDF CV can be added later at `assets/Hsiao-Ping-Ni-CV.pdf` and linked from this page.
+This page is a web CV summary. Download the polished Word version here: [Hsiao-Ping_Ni_CV_Postdoctoral_Research_Scholar.docx](assets/cv/Hsiao-Ping_Ni_CV_Postdoctoral_Research_Scholar.docx).
 :::
 
 ## Contact
 
 - Email: <hsiaoping316@gmail.com>
+- Location: Tempe, AZ, USA
 - Google Scholar: <https://scholar.google.com/citations?user=0Wai3BMAAAAJ&hl=en&authuser=2>
 - LinkedIn: <https://www.linkedin.com/in/hsiaopingni/>
 - GitHub: <https://github.com/ping830616>
+- ORCID: <https://orcid.org/0009-0004-2955-0871>
+
+## Research Profile
+
+Postdoctoral Research Scholar in semiconductor systems, telemetry analytics, and AI-driven system optimization. My work develops deployable, explainable, and low-overhead AI frameworks that use chip-, host-, and facility-level telemetry to improve reliability, energy efficiency, security monitoring, and operational resilience in semiconductor manufacturing facilities and computing platforms.
+
+::: {.signal-strip}
+::: {.signal}
+**&lt;0.005%**  
+EXACT CPU die-area overhead
+:::
+::: {.signal}
+**3.4 pJ/sample**  
+edge causal telemetry scoring
+:::
+::: {.signal}
+**95%**  
+DICE rich-telemetry detection
+:::
+::: {.signal}
+**3,000**  
+A100 GPU-hours grant
+:::
+:::
+
+## Proposed Endeavor
+
+Advance scalable telemetry-driven Silicon Lifecycle Management and semiconductor facility intelligence through causal/explainable AI, digital twins, fixed-point edge analytics, and guardrailed decision support for dependable and energy-efficient operations.
 
 ## Education
 
@@ -50,7 +79,7 @@ B.S. in Mechanical Engineering, Michigan State University
 2025-present
 :::
 ::: {}
-Postdoctoral Researcher, Arizona State University
+Postdoctoral Research Scholar, Arizona State University
 :::
 :::
 
@@ -104,8 +133,14 @@ Development Engineer, SINBON Electronics, Taiwan
 See the full list on [Publications](publications.qmd).
 
 - **Ni, H. P.**\*, & Chakrabarty, K. (2026). Silicon Lifecycle Management: From Telemetry to Dependability. *IEEE Design & Test*.
+- Ortega, E., **Ni, H. P.**, Hati, A., Talukdar, J., Paik, W., Su, F., Chattopadhyay, R., and Chakrabarty, K. (2026). X-OCTANE: eXplainable On-Chip Telemetry-based Anomaly Notification Engine for Silicon Lifecycle Management, to appear in *ACM Transactions on Design Automation of Electronic Systems*.
 - **Ni, H. P.**\*, Ortega, E., and Chakrabarty, K. (2026). EXACT: Edge-eXplainable Autonomous Causal Telemetry for Silicon Lifecycle Management, to appear in *IEEE European Test Symposium*.
 - **Ni, H. P.**\*, Chong, W. O., & Chou, J. S. (2024). Optimizing HVAC systems for semiconductor fabrication: A data-intensive framework for energy efficiency and sustainability. *Journal of Building Engineering*, *89*, 109397.
+
+## Selected Research Outputs
+
+- X-OCTANE repository and supporting scripts for CP-MI feature ranking and telemetry analysis: <https://github.com/ping830616/X-OCTANE>
+- SENTINEL proposed research direction for scalable end-to-end networked telemetry, target-referenced gap metrics, calibrated evidence, and guardrailed decision policies.
 
 ## Service
 

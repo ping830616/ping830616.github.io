@@ -5,6 +5,10 @@ description: "Research themes and current focus"
 
 My research develops trustworthy AI methods for semiconductor lifecycle intelligence. The throughline is practical: turn noisy, partial, and drifting runtime telemetry into evidence that engineers can use for monitoring, diagnosis, and safe response.
 
+::: {.note}
+Long-term proposed endeavor: advance scalable telemetry-driven Silicon Lifecycle Management and semiconductor facility intelligence through causal/explainable AI, digital twins, fixed-point edge analytics, and guardrailed decision support.
+:::
+
 ## Research Topics
 
 ::: {.feature-grid}
@@ -51,6 +55,16 @@ My current research explores scalable, telemetry-driven SLM frameworks that conn
 
 This direction connects digital twins, anomaly detection, explainable AI, causal telemetry learning, and hardware/software co-design into a practical framework for dependable semiconductor systems.
 
+## Research Knowledge Map
+
+![](assets/img/research-knowledge-map.png){fig-alt="Research knowledge map connecting semiconductor lifecycle management, telemetry analytics, digital twins, and semiconductor facility intelligence"}
+
+## SENTINEL Direction
+
+**SENTINEL: Scalable End-to-End Networked Telemetry for In-Field Operational Efficiency and Silicon Lifecycle Management** is a proposed research direction focused on target-referenced gap metrics, networked telemetry dependencies, calibrated evidence construction, and guardrailed decision policies for safe, drift-aware lifecycle operations.
+
+This direction pushes beyond detect-and-notify monitoring toward systems that can quantify lifecycle gaps, explain their likely causes, and support auditable operational actions.
+
 ## Research Experience
 
 ### Postdoctoral Research
@@ -59,8 +73,12 @@ My postdoctoral research focuses on AI-enabled lifecycle intelligence for semico
 
 This work extends my systems engineering background from fab-scale infrastructure optimization to chip- and system-scale lifecycle assurance. It has led to publications and submissions in semiconductor design, test, and reliability venues, including IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, IEEE European Test Symposium, IEEE International Test Conference, ACM Transactions, IEEE Design & Test, and IEEE VLSI Test Symposium.
 
+Selected current outputs include X-OCTANE, EXACT, DICE, TRACK, and CITADEL. These projects emphasize compact telemetry features, fixed-point scoring, causal evidence, and practical deployment constraints such as area, power, observability, and drift.
+
 ### Doctoral Research
 
 My doctoral research focused on AI-driven system optimization for semiconductor manufacturing facilities. I studied mechanical, electrical, and plumbing systems in high-reliability fab environments, with applications in predictive modeling, energy efficiency, indoor air quality, and supply-chain resilience.
 
 Dissertation: **System Optimization of HVAC Systems in Semiconductor Manufacturing Facilities**. Online copy: <https://keep.lib.asu.edu/items/201247>
+
+![](assets/img/mep-systems-figure.png){fig-alt="Civil, structural, mechanical, electrical, and plumbing systems in semiconductor construction projects"}

@@ -156,6 +156,26 @@ h2 {
   color: var(--site-accent);
 }
 
+.signal-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(140px, 1fr));
+  gap: 0.75rem;
+  margin: 1.4rem 0 1.8rem;
+}
+
+.signal {
+  border: 1px solid var(--site-line);
+  border-top: 4px solid var(--site-accent);
+  background: #ffffff;
+  padding: 0.9rem;
+}
+
+.signal strong {
+  color: var(--site-accent);
+  display: block;
+  font-size: 1.35rem;
+}
+
 .feature-grid,
 .project-grid {
   display: grid;
@@ -198,6 +218,11 @@ h2 {
   margin: 1.2rem 0;
 }
 
+.quarto-figure img {
+  max-height: 720px;
+  object-fit: contain;
+}
+
 .cv-section {
   display: grid;
   grid-template-columns: 180px minmax(0, 1fr);
@@ -215,6 +240,7 @@ h2 {
   .hero,
   .feature-grid,
   .project-grid,
+  .signal-strip,
   .stat-row,
   .cv-section {
     grid-template-columns: 1fr;

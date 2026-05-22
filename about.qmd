@@ -3,7 +3,7 @@ title: "About"
 description: "About Hsiao-Ping Ni"
 ---
 
-I am a postdoctoral researcher at Arizona State University working at the intersection of semiconductor systems, artificial intelligence, digital twins, and hardware/software co-design. My research focuses on how deployed semiconductor systems can remain reliable, explainable, and resilient as workloads, software, environments, and devices change over time.
+I am a Postdoctoral Research Scholar at Arizona State University working at the intersection of semiconductor systems, artificial intelligence, digital twins, and hardware/software co-design. My research focuses on how deployed semiconductor systems can remain reliable, explainable, and resilient as workloads, software, environments, and devices change over time.
 
 My current work develops AI-enabled methods for Silicon Lifecycle Management (SLM), including runtime telemetry analytics, lightweight digital twins, explainable anomaly detection, causal diagnosis, uncertainty-aware decision support, and edge and on-chip deployment. A central goal is to move semiconductor monitoring beyond simple detect-and-notify workflows toward measure-explain-act lifecycle intelligence.
 
@@ -14,6 +14,8 @@ My current work develops AI-enabled methods for Silicon Lifecycle Management (SL
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58994628600)
 [LinkedIn](https://www.linkedin.com/in/hsiaopingni/)
 [GitHub](https://github.com/ping830616)
+[ORCID](https://orcid.org/0009-0004-2955-0871)
+[Download CV](assets/cv/Hsiao-Ping_Ni_CV_Postdoctoral_Research_Scholar.docx)
 :::
 
 ## Biography
@@ -22,7 +24,7 @@ In 2020, I moved to Arizona to begin my M.S. program in Robotics and Autonomous 
 
 My doctoral research focused on AI-driven system optimization for semiconductor manufacturing facilities. I studied mechanical, electrical, and plumbing systems in high-reliability fab environments, with applications in predictive modeling, energy efficiency, indoor air quality, and supply-chain resilience. This work helped me see semiconductor manufacturing as a complex engineered system that must remain efficient, reliable, and resilient under uncertainty.
 
-I am currently a Postdoctoral Researcher under Dr. Krishnendu Chakrabarty at ASU. My postdoctoral research focuses on AI-enabled lifecycle intelligence for semiconductor systems, especially Silicon Lifecycle Management, telemetry-driven digital twins, explainable anomaly detection, and hardware/software co-design.
+I am currently a Postdoctoral Research Scholar under Dr. Krishnendu Chakrabarty at ASU. My postdoctoral research focuses on AI-enabled lifecycle intelligence for semiconductor systems, especially Silicon Lifecycle Management, telemetry-driven digital twins, explainable anomaly detection, and hardware/software co-design.
 
 ## Research Interests
 
@@ -64,7 +66,7 @@ I am currently a Postdoctoral Researcher under Dr. Krishnendu Chakrabarty at ASU
 
 ## Experience
 
-- Postdoctoral Researcher, Arizona State University, USA (2025-present)
+- Postdoctoral Research Scholar, Arizona State University, USA (2025-present)
 - Research Graduate Associate, Arizona State University, USA (2022-2025)
 - Mechanical System Engineer Intern, United Integrated Services, USA (2022-2025)
 - Robotic Systems Design Engineer Intern, 2Unify, USA (2021)

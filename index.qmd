@@ -7,7 +7,7 @@ toc: false
 ::: {.hero}
 ::: {.hero-copy}
 ::: {.eyebrow}
-Postdoctoral Researcher, Arizona State University
+Postdoctoral Research Scholar, Arizona State University
 :::
 
 # Hsiao-Ping Ni
@@ -16,12 +16,13 @@ Postdoctoral Researcher, Arizona State University
 Telemetry-driven lifecycle intelligence for dependable semiconductor systems, digital twins, explainable AI, and hardware/software co-design.
 :::
 
-I build methods that help deployed semiconductor systems measure departures from expected behavior, explain likely causes from runtime telemetry, and support safe responses under real deployment constraints.
+I build deployable, explainable, and low-overhead AI frameworks that use chip-, host-, and facility-level telemetry to improve reliability, energy efficiency, security monitoring, and operational resilience in semiconductor systems.
 
 ::: {.hero-actions}
 [Research](research.qmd){.btn .btn-primary}
 [Publications](publications.qmd){.btn .btn-outline-primary}
 [CV](cv.qmd){.btn .btn-outline-secondary}
+[Download CV](assets/cv/Hsiao-Ping_Ni_CV_Postdoctoral_Research_Scholar.docx){.btn .btn-outline-secondary}
 :::
 :::
 
@@ -35,6 +36,27 @@ I build methods that help deployed semiconductor systems measure departures from
 :::
 
 ::: {.content-block}
+## Research Profile
+
+::: {.signal-strip}
+::: {.signal}
+**&lt;0.005%**  
+EXACT CPU die-area overhead
+:::
+::: {.signal}
+**3.4 pJ/sample**  
+edge causal telemetry scoring
+:::
+::: {.signal}
+**95%**  
+DICE rich-telemetry detection
+:::
+::: {.signal}
+**3,000**  
+A100 GPU-hours grant
+:::
+:::
+
 ## Research Themes
 
 ::: {.feature-grid}
@@ -64,6 +86,8 @@ Causal graph learning, uncertainty-aware diagnosis, signal-level attribution, an
 :::
 
 ## Current Direction
+
+My long-term proposed endeavor is to advance scalable telemetry-driven Silicon Lifecycle Management and semiconductor facility intelligence through causal/explainable AI, digital twins, fixed-point edge analytics, and guardrailed decision support for dependable and energy-efficient operations.
 
 My current work develops AI-enabled Silicon Lifecycle Management frameworks that connect:
 

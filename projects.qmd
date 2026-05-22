@@ -9,7 +9,7 @@ description: "Selected research projects"
 
 ### DICE
 
-Digital Twin-Driven In-Field Continuous-Test Engine for Silicon Lifecycle Management. DICE connects runtime telemetry, operational context, and digital-twin reasoning for in-field test and lifecycle assurance.
+Digital Twin-Driven In-Field Continuous-Test Engine for Silicon Lifecycle Management. DICE connects runtime telemetry, operational context, and digital-twin reasoning for in-field test and lifecycle assurance. In current experiments, it achieves 75% anomaly detection with zero false alarms using a compact profile and 95% detection with zero false alarms using richer telemetry.
 :::
 
 ::: {.project-card}
@@ -17,7 +17,7 @@ Digital Twin-Driven In-Field Continuous-Test Engine for Silicon Lifecycle Manage
 
 ### EXACT
 
-Edge-eXplainable Autonomous Causal Telemetry for Silicon Lifecycle Management. EXACT targets explainable, causal, and deployment-aware telemetry analytics for dependable systems.
+Edge-eXplainable Autonomous Causal Telemetry for Silicon Lifecycle Management. EXACT targets explainable, causal, and deployment-aware telemetry analytics for dependable systems using a 15-feature budget, fixed-point anomaly scoring, less than 0.005% CPU die-area overhead, and 3.4 pJ/sample evaluation cost.
 :::
 
 ::: {.project-card}
@@ -25,7 +25,7 @@ Edge-eXplainable Autonomous Causal Telemetry for Silicon Lifecycle Management. E
 
 ### X-OCTANE
 
-eXplainable On-Chip Telemetry-based Anomaly Notification Engine for Silicon Lifecycle Management, focused on practical anomaly notification and explainability from chip telemetry.
+eXplainable On-Chip Telemetry-based Anomaly Notification Engine for Silicon Lifecycle Management, focused on practical anomaly notification and explainability from chip telemetry. Current results report less than 0.75% CPU die-area overhead, less than 1% non-idle power overhead, and more than 20% improvement in anomaly diagnosis accuracy.
 :::
 
 ::: {.project-card}
@@ -40,3 +40,9 @@ Telemetry-based Representation Analysis via Centered Kernel Alignment for Silico
 ## Semiconductor Facility Intelligence
 
 Before my current postdoctoral focus on chip and system lifecycle assurance, my doctoral work studied AI-driven optimization for semiconductor manufacturing facilities. This includes HVAC/MEP optimization, energy efficiency modeling, indoor air quality, reliability, supply-chain resilience, and circularity for high-reliability fab environments.
+
+## Reproducibility Artifacts
+
+- X-OCTANE repository and supporting scripts for CP-MI feature ranking and telemetry analysis: <https://github.com/ping830616/X-OCTANE>
+- Google Scholar profile: <https://scholar.google.com/citations?user=0Wai3BMAAAAJ>
+- ORCID: <https://orcid.org/0009-0004-2955-0871>

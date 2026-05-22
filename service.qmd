@@ -5,7 +5,7 @@ description: "Academic service, awards, and volunteer activities"
 
 ## Awards
 
-- NVIDIA Academic Grant, 3K A100 GPU-hours on Saturn Cloud (2025)
+- NVIDIA Academic Grant Program Award, Project Collaborator, NVIDIA Corporation: 3K A100 GPU-hours on Saturn Cloud for GPU-accelerated graph neural network research (2025)
 - Dean's List, 3 semesters, Michigan State University (2014-2015)
 
 ## Journal Peer Reviewing
@@ -16,6 +16,7 @@ description: "Academic service, awards, and volunteer activities"
 - Applied Energy (2025-present)
 - IEEE Open Journal of the Industrial Electronics Society (2025-present)
 - Energy Conversion and Management: X (2025-present)
+- Other engineering and energy journals (2024-present)
 
 ## Volunteer Grant Coordination
 
